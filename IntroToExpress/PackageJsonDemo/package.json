@@ -1,0 +1,15 @@
+{
+  "name": "packagejsondemo",
+  "version": "1.0.0",
+  "description": "this is a demo on how to create a file with npm init",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Markus Suzuki",
+  "license": "ISC",
+  "dependencies": {
+    "cat-me": "^1.0.3",
+    "express": "^4.16.4"
+  }
+}

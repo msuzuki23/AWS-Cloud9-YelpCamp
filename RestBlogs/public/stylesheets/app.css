@@ -1,0 +1,15 @@
+html {
+    maring: 0 auto;
+}
+
+i.icon {
+    font-size: 2em;
+}
+
+.container.main {
+    margin-top: 5em;
+}
+
+#delete {
+    display: inline;
+}
